@@ -1,151 +1,38 @@
-帮我分段翻译这篇文章。
-
-We have three types of memory. The first one is organic, which is the memory
-made of flesh and blood and the one administrated by our brain. The second is
-mineral, and in this sense mankind has known two kinds of mineral memory:
-millennia ago, this was the memory represented by clay tablets and obelisks,
-pretty well known in this country, on which people carved their texts. However,
-this second type is also the electronic memory of today's computers, based upon
-silicon. We have also known another kind of memory, the vegetal one, the one
-represented by the first papyruses, again well known in this country, and then on
-books, made of paper. Let me disregard the fact that at a certain moment the
-vellum of the first codices were of an organic origin, and the fact that the first
-paper was made with rugs and not with wood. Let me speak for the sake of
-simplicity of vegetal memory in order to designate books.
-我们拥有三种记忆。第一种是有机记忆，也就是由血肉构成、由我们的大脑所管理的记忆。第二种是矿物记忆，从这个意义上说，人类曾经拥有过两种矿物记忆：在几千年前，这是以泥板和方尖碑为代表的记忆形式——在这个国家对此尤为熟悉——人们把文字刻在这些载体上。而这种第二类记忆同时也指今天计算机的电子记忆，它是以硅为基础的。
-我们还曾经拥有另一种记忆，即植物记忆：最早由纸草文献所代表（在这个国家同样非常著名），后来发展为由纸张制成的书籍。这里我暂且不去讨论这样一个事实：在某一历史阶段，最早的对开本书籍所使用的羊皮纸具有有机来源，也不去讨论最初的纸是由旧布而非木材制成的事实。为了简化起见，我将用“植物记忆”这一说法来指代书籍。
+We have three types of memory. The first one is organic, which is the memory made of flesh and blood and the one administrated by our brain. The second is mineral, and in this sense mankind has known two kinds of mineral memory: millennia ago, this was the memory represented by clay tablets and obelisks, pretty well known in this country, on which people carved their texts. However, this second type is also the electronic memory of today's computers, based upon silicon. We have also known another kind of memory, the vegetal one, the one represented by the first papyruses, again well known in this country, and then on books, made of paper. Let me disregard the fact that at a certain moment the vellum of the first codices were of an organic origin, and the fact that the first paper was made with rugs and not with wood. Let me speak for the sake of simplicity of vegetal memory in order to designate books.  
+我们拥有三种记忆。第一种是有机记忆，也就是由血肉构成、由我们的大脑所管理的记忆。第二种是矿物记忆，从这个意义上说，人类曾经拥有过两种矿物记忆：在几千年前，这是以泥板和方尖碑为代表的记忆形式——在这个国家对此尤为熟悉——人们把文字刻在这些载体上。而这种第二类记忆同时也指今天计算机的电子记忆，它是以硅为基础的。 我们还曾经拥有另一种记忆，即植物记忆：最早由纸草文献所代表（在这个国家同样非常著名），后来发展为由纸张制成的书籍。这里我暂且不去讨论这样一个事实：在某一历史阶段，最早的对开本书籍所使用的羊皮纸具有有机来源，也不去讨论最初的纸是由旧布而非木材制成的事实。为了简化起见，我将用“植物记忆”这一说法来指代书籍。
 
 
-
-This place has been in the past and will be in the future devoted to the
-conservation of books; thus, it is and will be a temple of vegetal memory.
-Libraries, over the centuries, have been the most important way of keeping our
-collective wisdom. They were and still are a sort of universal brain where we can
-retrieve what we have forgotten and what we still do not know. If you will allow
-me to use such a metaphor, a library is the best possible imitation, by human
-beings, of a divine mind, where the whole universe is viewed and understood at
-the same time. A person able to store in his or her mind the information provided
-by a great library would emulate in some way the mind of God. In other words,
-we have invented libraries because we know that we do not have divine powers,
-but we try to do our best to imitate them.
-这个地方在过去、现在以及未来，都致力于书籍的保存；因此，它曾经是、也将一直是植物记忆的殿堂。几个世纪以来，图书馆一直是保存人类集体智慧的最重要方式。它们过去是，现在仍然是某种意义上的“普遍大脑”，我们可以在其中找回我们已经遗忘的知识，以及我们尚未知晓的内容。
-如果你允许我使用这样一个比喻：图书馆是人类所能创造的、对神性心智最好的模仿，在那里，整个宇宙可以被同时观看和理解。一个能够在头脑中存储一座大型图书馆所包含信息的人，在某种程度上便是在模仿上帝的心智。换言之，我们发明图书馆，正是因为我们知道自己并不具备神的能力，但我们仍然竭尽所能去接近它。
+This place has been in the past and will be in the future devoted to the conservation of books; thus, it is and will be a temple of vegetal memory. Libraries, over the centuries, have been the most important way of keeping our collective wisdom. They were and still are a sort of universal brain where we can retrieve what we have forgotten and what we still do not know. If you will allow me to use such a metaphor, a library is the best possible imitation, by human beings, of a divine mind, where the whole universe is viewed and understood at the same time. A person able to store in his or her mind the information provided by a great library would emulate in some way the mind of God. In other words, we have invented libraries because we know that we do not have divine powers, but we try to do our best to imitate them.  
+这个地方在过去、现在以及未来，都致力于书籍的保存；因此，它曾经是、也将一直是植物记忆的殿堂。几个世纪以来，图书馆一直是保存人类集体智慧的最重要方式。它们过去是，现在仍然是某种意义上的“普遍大脑”，我们可以在其中找回我们已经遗忘的知识，以及我们尚未知晓的内容。如果你允许我使用这样一个比喻：图书馆是人类所能创造的、对神性心智最好的模仿，在那里，整个宇宙可以被同时观看和理解。一个能够在头脑中存储一座大型图书馆所包含信息的人，在某种程度上便是在模仿上帝的心智。换言之，我们发明图书馆，正是因为我们知道自己并不具备神的能力，但我们仍然竭尽所能去接近它。
 
 
-
-To build, or better to rebuild, today one of the greatest libraries of the world
-might sound like a challenge, or a provocation. It happens frequently that in
-newspaper articles or academic papers some authors, facing the new computer and
-Internet era, speak of the possible "death of books". However, if books are to
-disappear, as did the obelisks or the clay tablets of ancient civilisations, this
-would not be a good reason to abolish libraries. On the contrary, they should
-survive as museums conserving the finds of the past, in the same way as we
-conserve the Rosetta Stone3 in a museum because we are no longer accustomed to
-carving our documents on mineral surfaces.
-在今天建造——或者更准确地说，重建——世界上最伟大的图书馆之一，听起来也许像是一种挑战，甚至是一种挑衅。人们经常在报纸文章或学术论文中，在面对计算机和互联网时代时，谈论书籍可能会“死亡”。
-然而，即便书籍真的会像古代文明中的方尖碑或泥板那样消失，这也绝不是废除图书馆的理由。恰恰相反，图书馆应当作为博物馆继续存在，保存过去的遗存，就像我们把罗塞塔石碑保存在博物馆中一样——尽管我们早已不再习惯把文献刻在矿物表面上。
+To build, or better to rebuild, today one of the greatest libraries of the world might sound like a challenge, or a provocation. It happens frequently that in newspaper articles or academic papers some authors, facing the new computer and Internet era, speak of the possible "death of books". However, if books are to disappear, as did the obelisks or the clay tablets of ancient civilisations, this would not be a good reason to abolish libraries. On the contrary, they should survive as museums conserving the finds of the past, in the same way as we conserve the Rosetta Stone3 in a museum because we are no longer accustomed to carving our documents on mineral surfaces.  
+在今天建造——或者更准确地说，重建——世界上最伟大的图书馆之一，听起来也许像是一种挑战，甚至是一种挑衅。人们经常在报纸文章或学术论文中，在面对计算机和互联网时代时，谈论书籍可能会“死亡”。 然而，即便书籍真的会像古代文明中的方尖碑或泥板那样消失，这也绝不是废除图书馆的理由。恰恰相反，图书馆应当作为博物馆继续存在，保存过去的遗存，就像我们把罗塞塔石碑保存在博物馆中一样——尽管我们早已不再习惯把文献刻在矿物表面上。
 
 
-Yet, my praise for libraries will be a little more optimistic. I belong to the people
-who still believe that printed books have a future and that all fears of their
-no disappearance are only the last example of other fears, or of milleniaristic terrors
-oabout the end of something, the world included.
+Yet, my praise for libraries will be a little more optimistic. I belong to the people who still believe that printed books have a future and that all fears of their no disappearance are only the last example of other fears, or of milleniaristic terrors oabout the end of something, the world included.  
 然而，我对图书馆的赞美将稍微乐观一些。我属于仍然相信纸质书拥有未来的那一类人。我认为，所有关于书籍即将消失的恐惧，不过是历史上反复出现的另一种恐惧的最新版本——一种关于某种事物（甚至包括世界本身）终结的末世式焦虑。
 
 
-
-Good news: Books will remain indispensable, not only for literature but for any
-circumstances in which one needs to read carefully, not only in order to receive
-information but also to speculate and to reflect about it. To read a computer
-screen is not the same as to read a book. Think about the process of learning a
-new computer programme. Usually, the programme is able to display on the
-screen all the instructions you need. But usually users who want to learn the
-programme either print the instructions and read them as if they were in book
-form, or they buy a printed manual. It is possible to conceive of a visual
-programme that explains very well how to print and bind a book, but in order to
-get instructions on how to write, or how to use, a computer programme, we need
-a printed handbook.
-好消息是：书籍仍将是不可或缺的，不仅对于文学而言如此，对于任何需要细致阅读的情境也是如此——不仅是为了获取信息，更是为了对信息进行思考与反省。
-在计算机屏幕上阅读，并不等同于阅读一本书。想想学习一个新的计算机程序的过程：通常，程序本身可以在屏幕上显示所有必要的说明。但实际情况是，想要真正掌握程序的用户，要么把说明打印出来，当作书来阅读；要么干脆购买一本纸质手册。
-我们或许可以设想一种视觉化程序，能够很好地演示如何印刷和装订一本书，但要获取关于如何编写、如何使用一个计算机程序的说明，我们仍然需要一本印刷成册的手册。
+Good news: Books will remain indispensable, not only for literature but for any circumstances in which one needs to read carefully, not only in order to receive information but also to speculate and to reflect about it. To read a computer screen is not the same as to read a book. Think about the process of learning a new computer programme. Usually, the programme is able to display on the screen all the instructions you need. But usually users who want to learn the programme either print the instructions and read them as if they were in book form, or they buy a printed manual. It is possible to conceive of a visual programme that explains very well how to print and bind a book, but in order to get instructions on how to write, or how to use, a computer programme, we need a printed handbook.  
+好消息是：书籍仍将是不可或缺的，不仅对于文学而言如此，对于任何需要细致阅读的情境也是如此——不仅是为了获取信息，更是为了对信息进行思考与反省。 在计算机屏幕上阅读，并不等同于阅读一本书。想想学习一个新的计算机程序的过程：通常，程序本身可以在屏幕上显示所有必要的说明。但实际情况是，想要真正掌握程序的用户，要么把说明打印出来，当作书来阅读；要么干脆购买一本纸质手册。 我们或许可以设想一种视觉化程序，能够很好地演示如何印刷和装订一本书，但要获取关于如何编写、如何使用一个计算机程序的说明，我们仍然需要一本印刷成册的手册。
 
 
-
-Up to now, books still represent the most economical, flexible way to transport
-information at a very low cost. Computer communication travels ahead of you;
-books travel with you and at your speed. If you are shipwrecked on a desert
-island, where you don't have the option of plugging in a computer, a book is still
-a valuable instrument. Even if your computer has solar batteries, you cannot
-easily read it while lying in a hammock. Books are still the best companions for a
-shipwreck, or for the day after the night before. Books belong to those kinds of
-instruments that, once invented, have not been further improved because they are
-already alright, such as the hammer, knife, spoon or scissors.
-直到今天，书籍仍然是最经济、最灵活、成本最低的信息携带方式。计算机通信会先于你到达目的地；而书籍是与你同行、以你的速度前进的。如果你在一座荒岛上遇难，而那里无法接通电脑，书籍仍然是宝贵的工具。即使你的电脑配有太阳能电池，你也无法轻松地躺在吊床上阅读它。
-书籍仍然是遭遇船难之人，或是“酒后第二天”的最佳伴侣。书籍属于那种一经发明便无需再改进的工具，就像锤子、刀子、勺子或剪刀一样——它们已经足够完善。
+Up to now, books still represent the most economical, flexible way to transport information at a very low cost. Computer communication travels ahead of you; books travel with you and at your speed. If you are shipwrecked on a desert island, where you don't have the option of plugging in a computer, a book is still a valuable instrument. Even if your computer has solar batteries, you cannot easily read it while lying in a hammock. Books are still the best companions for a shipwreck, or for the day after the night before. Books belong to those kinds of instruments that, once invented, have not been further improved because they are already alright, such as the hammer, knife, spoon or scissors.  
+直到今天，书籍仍然是最经济、最灵活、成本最低的信息携带方式。计算机通信会先于你到达目的地；而书籍是与你同行、以你的速度前进的。如果你在一座荒岛上遇难，而那里无法接通电脑，书籍仍然是宝贵的工具。即使你的电脑配有太阳能电池，你也无法轻松地躺在吊床上阅读它。书籍仍然是遭遇船难之人，或是“酒后第二天”的最佳伴侣。书籍属于那种一经发明便无需再改进的工具，就像锤子、刀子、勺子或剪刀一样——它们已经足够完善。
 
 
-
-Two new inventions, however, are on the verge of being industrially exploited.
-One is printing on demand: After scanning the catalogues of many libraries or
-publishing houses a reader can select the book he needs, and the operator will
-push a button, and the machine will print and bind a single copy using the font the
-reader likes. This will certainly change the whole publishing market. It will
-probably eliminate bookstores, but it will not eliminate books, and it will not
-eliminate libraries, the only places where books can be found in order to scan and
-reprint them. Simply put: Every book will be tailored according to the desires of
-the buyer, as happened with old manuscripts.
-然而，有两项新发明正处在即将被工业化利用的边缘。第一项是按需印刷：读者在扫描了多个图书馆或出版社的目录之后，可以选择自己需要的书籍，操作人员只需按下一个按钮，机器便会使用读者喜爱的字体，打印并装订出一本单独的书。这无疑将彻底改变整个出版市场。
-它可能会消灭书店，但不会消灭书籍，也不会消灭图书馆——因为只有在图书馆中，书籍才能被找到、扫描并重新印刷。简单来说：每一本书都将根据购买者的需求进行“定制”，就像古代的手抄本那样。
+Two new inventions, however, are on the verge of being industrially exploited. One is printing on demand: After scanning the catalogues of many libraries or publishing houses a reader can select the book he needs, and the operator will push a button, and the machine will print and bind a single copy using the font the reader likes. This will certainly change the whole publishing market. It will probably eliminate bookstores, but it will not eliminate books, and it will not eliminate libraries, the only places where books can be found in order to scan and reprint them. Simply put: Every book will be tailored according to the desires of the buyer, as happened with old manuscripts.  
+然而，有两项新发明正处在即将被工业化利用的边缘。第一项是按需印刷：读者在扫描了多个图书馆或出版社的目录之后，可以选择自己需要的书籍，操作人员只需按下一个按钮，机器便会使用读者喜爱的字体，打印并装订出一本单独的书。这无疑将彻底改变整个出版市场。它可能会消灭书店，但不会消灭书籍，也不会消灭图书馆——因为只有在图书馆中，书籍才能被找到、扫描并重新印刷。简单来说：每一本书都将根据购买者的需求进行“定制”，就像古代的手抄本那样。
 
 
-The second invention is the e-book where by inserting a micro-cassette in the
-book's spine or by connecting it to the Internet one can have a book printed out in
-front of us. Even in this case, however, we shall still have a book, though as
-different from our current ones as ours are different from old manuscripts on
-parchment, and as the first Shakespeare folio of 1623 is different from the last
-Penguin edition. Yet, up to now e-books have not proved to be commercially
-successful as their inventors hoped. I have been told that some hackers, grown
-up on computers and unused to browsing books, have finally read great literary
-masterpieces on e-books, but I think that the phenomenon remains very limited.
-In general, people seem to prefer the traditional way of reading a poem or a novel
-on printed paper. E-books will probably prove to be useful for consulting
-information, as happens with dictionaries or special documents. They will
-probably help students obliged to bring with them ten or more books when they go
-to school, but they will not substitute for other kinds of books that we love to
-read in bed before sleep, for example.
-第二项发明是电子书：通过在书脊中插入一个微型存储装置，或通过连接互联网，人们可以在面前即时打印出一本书。即便如此，我们面对的仍然是一本“书”，尽管它与我们今天的书籍差异巨大——就像今天的书籍与古老的羊皮纸手抄本不同一样，也像1623年的《第一对开本莎士比亚全集》与最新的企鹅出版社版本不同。
-然而，到目前为止，电子书并未像其发明者所期望的那样在商业上取得成功。有人告诉我，一些在计算机环境中成长、并不习惯翻阅纸质书籍的黑客，终于通过电子书读完了伟大的文学经典；但我认为这一现象仍然非常有限。总体而言，人们似乎仍然更愿意以传统方式，在纸张上阅读诗歌或小说。
-电子书可能会在信息检索方面发挥作用，例如用于词典或专业文献；它们也许能帮助那些上学时必须携带十几本书的学生，但它们并不能取代那些我们在睡前、躺在床上阅读并热爱的书籍。
+The second invention is the e-book where by inserting a micro-cassette in the book's spine or by connecting it to the Internet one can have a book printed out in front of us. Even in this case, however, we shall still have a book, though as different from our current ones as ours are different from old manuscripts on parchment, and as the first Shakespeare folio of 1623 is different from the last Penguin edition. Yet, up to now e-books have not proved to be commercially successful as their inventors hoped. I have been told that some hackers, grown up on computers and unused to browsing books, have finally read great literary masterpieces on e-books, but I think that the phenomenon remains very limited. In general, people seem to prefer the traditional way of reading a poem or a novel on printed paper. E-books will probably prove to be useful for consulting information, as happens with dictionaries or special documents. They will probably help students obliged to bring with them ten or more books when they go to school, but they will not substitute for other kinds of books that we love to read in bed before sleep, for example.  
+第二项发明是电子书：通过在书脊中插入一个微型存储装置，或通过连接互联网，人们可以在面前即时打印出一本书。即便如此，我们面对的仍然是一本“书”，尽管它与我们今天的书籍差异巨大——就像今天的书籍与古老的羊皮纸手抄本不同一样，也像1623年的《第一对开本莎士比亚全集》与最新的企鹅出版社版本不同。然而，到目前为止，电子书并未像其发明者所期望的那样在商业上取得成功。有人告诉我，一些在计算机环境中成长、并不习惯翻阅纸质书籍的黑客，终于通过电子书读完了伟大的文学经典；但我认为这一现象仍然非常有限。总体而言，人们似乎仍然更愿意以传统方式，在纸张上阅读诗歌或小说。电子书可能会在信息检索方面发挥作用，例如用于词典或专业文献；它们也许能帮助那些上学时必须携带十几本书的学生，但它们并不能取代那些我们在睡前、躺在床上阅读并热爱的书籍。
 
 
-
-Indeed, there are a lot of new technological devices that have not made previous
-ones obsolete. Cars run faster than bicycles, but they have not rendered bicycles
-obsolete, and no new technological improvements can make a bicycle better than
-it was before. The idea that a new technology abolishes a previous one is
-frequently too simplistic. Though after the invention of photography painters did
-not feel obliged to serve any longer as craftsmen reproducing reality, this did not
-mean that Daguerre's invention only encouraged abstract painting. There is a
-whole tradition in modern painting that could not have existed without
-photographic models: Think, for instance, of hyper-realism. Here, reality is seen
-by the painter's eye through the photographic eye. This means that in the history
-of culture it has never been the case that something has simply killed something
-else. Rather, a new invention has always profoundly changed an older one.
-事实上，许多新技术并没有让旧技术变得过时。汽车比自行车跑得快，但并没有使自行车消失；而且任何技术改进，也无法让自行车变得“比它本来更好”。认为一种新技术必然会废除旧技术的想法，往往过于简单化。
-摄影术发明之后，画家不再需要充当复制现实的工匠，但这并不意味着达盖尔的发明只促进了抽象绘画的发展。现代绘画中存在着一个完整的传统，没有摄影是无法存在的——比如超写实主义。在那里，现实是通过摄影之眼，再经由画家之眼被观看的。
-这说明，在文化史中，从未出现过某种事物简单地“杀死”另一种事物的情况。相反，一项新发明总是会深刻地改变旧事物。
+Indeed, there are a lot of new technological devices that have not made previous ones obsolete. Cars run faster than bicycles, but they have not rendered bicycles obsolete, and no new technological improvements can make a bicycle better than it was before. The idea that a new technology abolishes a previous one is frequently too simplistic. Though after the invention of photography painters did not feel obliged to serve any longer as craftsmen reproducing reality, this did not mean that Daguerre's invention only encouraged abstract painting. There is a whole tradition in modern painting that could not have existed without photographic models: Think, for instance, of hyper-realism. Here, reality is seen by the painter's eye through the photographic eye. This means that in the history of culture it has never been the case that something has simply killed something else. Rather, a new invention has always profoundly changed an older one.  
+事实上，许多新技术并没有让旧技术变得过时。汽车比自行车跑得快，但并没有使自行车消失；而且任何技术改进，也无法让自行车变得“比它本来更好”。认为一种新技术必然会废除旧技术的想法，往往过于简单化。摄影术发明之后，画家不再需要充当复制现实的工匠，但这并不意味着达盖尔的发明只促进了抽象绘画的发展。现代绘画中存在着一个完整的传统，没有摄影是无法存在的——比如超写实主义。在那里，现实是通过摄影之眼，再经由画家之眼被观看的。这说明，在文化史中，从未出现过某种事物简单地“杀死”另一种事物的情况。相反，一项新发明总是会深刻地改变旧事物。
 
 
-To conclude on this theme of the inconsistency of the idea of the physical
-disappearance of books, let us say that sometimes this fear does not only concern
-books but also printed material in general. Alas, if by chance one hoped that
-computers, and especially word processors, would contribute to saving trees,
-then that was wishful thinking. Instead, computers encourage the production of
-printed material. The computer creates new modes of production and diffusion of
-printed documents. In order to re-read a text, and to correct it properly, if it is
-not simply a short letter, one needs to print it, then to re-read it, then to correct
-it at the computer and to reprint it again. I do not think that one would be able to
-write a text of hundreds of pages and to correct it properly without reprinting it
-many times.
-最后，为了总结关于“书籍会在物理层面消失”这一观点的站不住脚之处，我们可以指出：这种恐惧有时不仅针对书籍，也针对所有印刷材料。遗憾的是，如果有人曾希望计算机——尤其是文字处理器——能够帮助拯救树木，那只是美好的幻想。
-事实上，计算机反而鼓励了印刷材料的生产。计算机创造了新的印刷文献生产与传播方式。为了重新阅读并恰当地修改一篇文本，如果它不只是一个简短的信件，就必须先打印出来，再阅读、再在电脑上修改，然后再次打印。我认为，没有人能够在不反复打印多次的情况下，正确地完成一篇数百页的文本写作与修订。
+To conclude on this theme of the inconsistency of the idea of the physical disappearance of books, let us say that sometimes this fear does not only concern books but also printed material in general. Alas, if by chance one hoped that computers, and especially word processors, would contribute to saving trees, then that was wishful thinking. Instead, computers encourage the production of printed material. The computer creates new modes of production and diffusion of printed documents. In order to re-read a text, and to correct it properly, if it is not simply a short letter, one needs to print it, then to re-read it, then to correct it at the computer and to reprint it again. I do not think that one would be able to write a text of hundreds of pages and to correct it properly without reprinting it many times.  
+最后，为了总结关于“书籍会在物理层面消失”这一观点的站不住脚之处，我们可以指出：这种恐惧有时不仅针对书籍，也针对所有印刷材料。遗憾的是，如果有人曾希望计算机——尤其是文字处理器——能够帮助拯救树木，那只是美好的幻想。事实上，计算机反而鼓励了印刷材料的生产。计算机创造了新的印刷文献生产与传播方式。为了重新阅读并恰当地修改一篇文本，如果它不只是一个简短的信件，就必须先打印出来，再阅读、再在电脑上修改，然后再次打印。我认为，没有人能够在不反复打印多次的情况下，正确地完成一篇数百页的文本写作与修订。
