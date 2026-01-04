@@ -5,8 +5,10 @@ paradox: it enjoins us to cling to its many gifts even while it ordains their
 eventual relinquishment. The rabbis³ of old put it this way: "A man comes to
 this world with his fist clenched, but when he dies, his hand is open." We begin
 by grasping, ultimately we must renounce.
-毫无疑问，我们应当珍惜生命，因为它奇妙非凡，充满了美——那种从上帝大地的每一个毛孔中迸发出来的美。
-我们心里明白这一点，但太多时候，只有在回首往事时，我们才意识到这一真理：当我们想起曾经拥有的一切，才突然发现，它已经不复存在。
+生活的艺术，在于懂得什么时候该紧紧抓住，什么时候又该学会放手。
+因为人生本身就是一个悖论：它一方面要求我们珍惜、把握生命赐予的诸多恩惠，另一方面却又注定我们终将失去它们。
+古代的拉比曾这样说：“人来到这个世界时，拳头是紧握的；而当他离开时，手却是张开的。”
+我们以抓取开始，却必须以放下结束。
 
 
 Surely we ought to hold fast to life, for it is wondrous, and full of a beauty that
